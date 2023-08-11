@@ -1,0 +1,19 @@
+{
+  "name": "@tulio.meran/consume-pokemon-api",
+  "version": "1.0.1",
+  "description": "This is a library where you can consume the open source api of pokemon without implement the logic from scratch in your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TulioMeran/consume-pokemon-api.git"
+  },
+  "author": "TulioMeran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TulioMeran/consume-pokemon-api/issues"
+  },
+  "homepage": "https://github.com/TulioMeran/consume-pokemon-api#readme"
+}
